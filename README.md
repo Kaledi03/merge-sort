@@ -1,2 +1,4 @@
 # merge-sort
-Merge sort algorythm implemented in python
+
+
+Merge sort algorythm implemented in python by kaled brahmi
